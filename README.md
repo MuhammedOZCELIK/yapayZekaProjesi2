@@ -47,3 +47,5 @@ Algoritmanın iterasyonlar boyunca gelişimi grafikle gösterilir
 Sonuç
 
 Bu proje ile, meta-sezgisel bir optimizasyon yöntemi olan Karınca Kolonisi Algoritması’nın, gerçek harita verileri kullanılarak rota optimizasyon problemlerinde etkin bir şekilde kullanılabildiği gösterilmiştir. Geliştirilen sistem, hem algoritmik hem de görsel açıdan kullanıcıya anlaşılır ve etkileşimli bir çözüm sunmaktadır.
+
+Muhammed Emin ÖZÇELİK 2212721063
