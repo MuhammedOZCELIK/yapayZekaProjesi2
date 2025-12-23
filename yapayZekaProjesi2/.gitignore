@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Env files
+.env
+
+# IDE files
+.vs/
+.vscode/
+
+# Output files
+figure/
